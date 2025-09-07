@@ -14,11 +14,20 @@
 <br><br>
 
 <div align="center">
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B)](https://minewebprofile.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu/)
-  [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idivyanshudv@gmail.com)
-  [![Phone](https://img.shields.io/badge/📱_+91--9548254043-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919548254043)
+  <a href="https://minewebprofile.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/divyanshu/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:idivyanshudv@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+919548254043">
+    <img src="https://img.shields.io/badge/📱_+91--9548254043-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
 </div>
+
 
 
 ---
