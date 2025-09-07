@@ -8,19 +8,18 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Senior+Frontend+Developer;💡+3%2B+Years+of+Innovation;🎯+Building+Digital+Experiences;⚡+Performance+%26+User+Experience+Expert" alt="Typing SVG" />
-  <br>
 </div>
 
-<div style="margin-top: 30px;"></div>
+<!-- Add vertical space for GitHub using <br> -->
+<br><br>
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B)](https://minewebprofile.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu/)
-[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idivyanshudv@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_+91--9548254043-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919548254043)
-
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B)](https://minewebprofile.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu/)
+  [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idivyanshudv@gmail.com)
+  [![Phone](https://img.shields.io/badge/📱_+91--9548254043-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919548254043)
 </div>
+
 
 ---
 
