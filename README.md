@@ -29,8 +29,6 @@
   </a>
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -53,7 +51,8 @@ const divyanshu = {
         performanceBoost: "40% faster applications",
         deliveryRecord: "100% on-time delivery",
         bugReduction: "70% fewer production issues",
-        teamLeadership: "Mentored 4+ developers"
+        teamLeadership: "Mentored 4+ developers",
+        testCoverage: "95% coverage achieved"
     },
     
     passions: ["Clean Code", "User Experience", "Performance Optimization"],
@@ -70,25 +69,30 @@ const divyanshu = {
 <div align="center">
 
 ### 🎨 **Frontend Mastery**
-![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&shadow=0px_4px_8px_rgba(255,107,53,0.3))
+![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3776FF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ **Backend Power**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### ⚙️ **Backend & Integration**
+![.NET MVC](https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
-### 🗄️ **Database & DevOps**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧪 **Testing & Quality**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing_Protocols-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+### 🛠️ **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF9500?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -107,12 +111,13 @@ const divyanshu = {
 | 🎯 **Metric** | 📊 **Achievement** | 🚀 **Impact** |
 |:---:|:---:|:---:|
 | **User Reach** | `10,000+ Users` | Portal optimization for massive scale |
-| **Performance** | `40% Faster` | Load time optimization mastery |
+| **Performance** | `40% Faster` | Load time optimization (Web + Mobile) |
 | **Delivery** | `100% On-Time` | Flawless project management |
-| **Quality** | `95% Test Coverage` | Zero-defect development approach |
-| **Bug Reduction** | `70% Decrease` | Robust testing protocols |
+| **Quality** | `95% Test Coverage` | Rigorous testing protocols |
+| **Bug Reduction** | `70% Decrease` | Production issue minimization |
 | **Team Growth** | `4+ Developers Mentored` | Leadership & knowledge sharing |
 | **Lighthouse Score** | `+30 Points` | Frontend performance expertise |
+| **Process Improvement** | `25% Faster Delivery` | Jira workflow optimization |
 
 </div>
 
@@ -131,28 +136,30 @@ const divyanshu = {
 const currentRole = {
     achievements: [
         "🚀 Led full-stack development for 10,000+ user portal",
-        "⚡ Boosted performance by 40% using Next.js & Spring Boot",
-        "📊 Achieved 100% on-time delivery through Jira management",
+        "⚡ Boosted performance by 40% using Next.js, React & React Native",
+        "📊 Achieved 100% on-time delivery through Jira management (+25% efficiency)",
         "🛡️ Implemented testing protocols: 95% coverage, 70% bug reduction"
     ],
-    technologies: ["Next.js", "Spring Boot", "Jira", "Testing Frameworks"],
+    technologies: ["Next.js", "React.js", "React Native", "Jira", "Testing Frameworks"],
     impact: "Massive scale optimization & team productivity enhancement"
 };
 ```
 
-### 🔧 **Web Application Developer** | *Spring Time Software Solutions*
+### 🔧 **Web Application Developer** | *Spring Time Software Solutions Pvt Ltd*
 **📅 Oct 2022 – Dec 2024 | 📍 Noida, India**
 
 - 🏗️ **Full-stack architect** building scalable applications with React, Next.js & .NET MVC
 - 🎨 **Frontend migration specialist** - boosted Lighthouse scores by 30 points
 - 🤝 **Client relationship expert** - strategic communication & quality assurance
+- ⚡ **Performance optimizer** - enhanced user experience through modern frameworks
 
 ### 🎨 **Frontend Developer** | *Ccs64.org*
-**📅 Aug 2021 – Oct 2022 | 📍 Bangalore, India**
+**📅 Aug 2021 – Oct 2022 | 📍 Faridabad, India**
 
-- ⚡ **Performance optimizer** - improved site speed by 25%
-- 🛒 **E-commerce specialist** - React/WordPress development
-- 👥 **Collaborative team player** - UI/UX improvements & user experience
+- ⚡ **Performance optimizer** - improved site speed by 25% through optimization
+- 🛒 **E-commerce specialist** - React/WordPress development workflows
+- 👥 **Collaborative team player** - UI improvements focused on usability & design
+- 🔧 **Technical contributor** - image and code optimization expertise
 
 ---
 
@@ -172,14 +179,15 @@ const currentRole = {
 *E-commerce Innovation Platform*
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 **🎯 Features:**
 - 🏠 Home delivery system for groceries & essentials
-- 💳 Integrated payment gateway
-- 📦 Real-time order tracking
-- 📱 Mobile-responsive design
+- 📚 Books and essential goods marketplace
+- 📦 End-to-end logistics integration
+- 📱 Customer-centric responsive design
+
+**[🔗 View Project](#)**
 
 </td>
 <td align="center" width="50%">
@@ -188,14 +196,15 @@ const currentRole = {
 *Book Store E-commerce Platform*
 
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 **🎯 Features:**
-- 📖 Advanced book catalog & search
-- 🚚 Seamless delivery workflow
-- 👤 User account management
-- 📊 Admin dashboard & analytics
+- 📖 Scalable book selling platform
+- 🚚 Complete home delivery workflow
+- 👤 User management system
+- 📊 E-commerce optimization
+
+**[🔗 View Project](#)**
 
 </td>
 </tr>
@@ -246,19 +255,20 @@ const currentRole = {
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
 ![Certification](https://img.shields.io/badge/Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-**Great Learning (2025)**
+**Great Learning (2025)**  
+[🔗 View Certificate](#)
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
 ![Certification](https://img.shields.io/badge/Cyber_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)  
 **AKTU & UP Police (2019)**
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
 ![Certification](https://img.shields.io/badge/In_Store_Promoter-00D9FF?style=for-the-badge&logo=certificate&logoColor=white)  
 **NSDC (2018-2019)**
@@ -266,6 +276,30 @@ const currentRole = {
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🏅 **Key Achievements & Impact**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284113-ac5cb4c8-1c93-436b-a98c-dd2ca08ecfc9.gif" width="150">
+
+</div>
+
+<div align="center">
+
+### 🚀 **Professional Milestones**
+
+✅ **Delivered web and native applications** using React.js, Next.js, and React Native with **100% on-time delivery**  
+✅ **Led mentoring of 4 developers** and increased automated testing code coverage to **85%**  
+✅ **Improved application performance by 40%** across web and mobile platforms  
+✅ **Reduced production bugs by 70%** through rigorous testing protocols  
+✅ **Enhanced project delivery efficiency by 25%** through optimized Jira workflows  
+✅ **Boosted Lighthouse scores by 30 points** through frontend migration expertise  
+✅ **Served 10,000+ users** through scalable portal development  
 
 </div>
 
