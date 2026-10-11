@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🌟 Divyanshu Tiwari 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divyanshu%20Tiwari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -7,41 +7,34 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Frontend+Developer;4%2B+Years+of+Experience;React+%7C+Next.js+%7C+TypeScript;Performance+%26+SEO+Optimization" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Frontend+Developer;4%2B+Years+of+Experience;React+%7C+Next.js+%7C+TypeScript;Performance+%26+SEO+Optimization" alt="Typing SVG" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <a href="https://divyanshudev.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/divyanshu/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:idivyanshudv@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://divyanshudev.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/divyanshu/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:idivyanshudv@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 
 ---
 
-<div align="center">
-  
 ## 👨‍💻 About Me
-
-</div>
 
 ```javascript
 const divyanshu = {
     role: "Frontend Developer",
     experience: "4+ Years",
-    location: "India 🇮🇳",
+    location: "India",
     currentStatus: "Open to opportunities",
-    
     coreSkills: ["React.js", "Next.js", "TypeScript", "Redux"],
-    
     impact: {
         userReach: "10,000+ users served",
         performance: "40% faster load times",
@@ -49,7 +42,6 @@ const divyanshu = {
         quality: "95% test coverage",
         bugReduction: "70% fewer production bugs"
     },
-    
     focus: "Building fast, SEO-friendly web applications",
     philosophy: "Write clean code. Ship on time. Measure impact."
 };
